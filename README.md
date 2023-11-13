@@ -2,9 +2,9 @@
 
 - Frontend : https://github.com/eeeeeddy/EGG_Frontend.git <br>
 - Backend : https://github.com/eeeeeddy/EGG_Backend.git <br>
-- Data : https://github.com/eeeeeddy/EGG_Data.git <br>
-- FastAPI : https://github.com/eeeeeddy/EGG_FastAPI.git <br>
-- Docker : https://github.com/eeeeeddy/EGG_Docker.git <br><br>
+- Data : https://github.com/seongcheollee/EGG_Data.git <br>
+- FastAPI : https://github.com/seongcheollee/EGG_FastAPI.git <br>
+- Docker : https://github.com/seongcheollee/EGG_Docker.git <br><br>
 
 ### 1. 프로젝트 소개 + 개발 기간
 
@@ -199,4 +199,4 @@
     - 논문 최적화 NLP 모델 개발
     - 스트리밍 데이터 파이프라인 개설
 
-### 9. 회고 및 후기
+
