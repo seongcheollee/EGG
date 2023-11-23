@@ -3,7 +3,7 @@
 - Frontend : https://github.com/eeeeeddy/EGG_Frontend <br>
 - Backend : https://github.com/eeeeeddy/EGG_Backend <br>
 - Data : https://github.com/seongcheollee/EGG_Data <br>
-- FastAPI : https://github.com/seongcheollee/EGG_FastAPI <br>
+- FastAPI : https://github.com/seongcheollee/Egg_Graph_FastAPI <br>
 - Docker : https://github.com/seongcheollee/spark-yarn-docker <br><br>
 
 ### 1. 프로젝트 소개 + 개발 기간
