@@ -114,7 +114,7 @@
 
 데이터 파이프라인
 
-<img width="1000" alt="image" src="https://github.com/seongcheollee/EGG/assets/59824783/ed81e196-e739-4158-aafa-44e45b228b6c">
+<img width="1000" alt="image" src="https://github.com/seongcheollee/EGG/assets/59824783/f31494d8-a5ff-4371-b5ff-994af5136b99">
 
 
 
