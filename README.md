@@ -1,4 +1,4 @@
-# EGG : 논문 시각화 검색 서비스
+<img width="1425" alt="image" src="https://github.com/seongcheollee/EGG/assets/59824783/948f8a30-955a-4364-b552-0b2871aacee5"># EGG : 논문 시각화 검색 서비스
 
 - Frontend : https://github.com/eeeeeddy/EGG_Frontend <br>
 - Backend : https://github.com/eeeeeddy/EGG_Backend <br>
@@ -106,9 +106,11 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
 
-### 6. 프로젝트 아키텍쳐
+### 6. 프로젝트 아키텍쳐 및 데이터 파이프라인
 
-![ProjectArchitecture](https://github.com/seongcheollee/EGG_Data/assets/71869717/6a412147-90ba-4b40-b4e8-03bd1324031d)
+프로젝트 아키텍처
+
+<img width="1425" alt="image" src="https://github.com/seongcheollee/EGG/assets/59824783/2a6f6a8a-ddb1-4def-a47a-4534d270b6c0">
 
 ### 7. 주요 기능
 
